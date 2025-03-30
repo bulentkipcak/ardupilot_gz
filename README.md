@@ -35,7 +35,7 @@ mkdir -p ~/ros2_ws/src
 
 ```bash
 cd ~/ros2_ws
-vcs import --input https://raw.githubusercontent.com/ArduPilot/ardupilot_gz/main/ros2_gz.repos --recursive src
+vcs import --input https://raw.githubusercontent.com/bulentkipcak/ardupilot_gz/main/ros2_gz.repos --recursive src
 ```
 
 #### 3. Set the Gazebo version to Harmonic or Garden:
